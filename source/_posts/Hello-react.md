@@ -2,6 +2,7 @@
 title: 创建 Hello react 项目
 date: 2018-03-06 15:02:58
 tags: react
+cover_picture: https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=384169016,987997010&fm=27&gp=0.jpg
 ---
 在 create-react-app 环境下，我们来写一个 react 的 Hello World 。
 
