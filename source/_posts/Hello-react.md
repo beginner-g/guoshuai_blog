@@ -1,6 +1,8 @@
 ---
 title: 创建 Hello react 项目
 date: 2018-03-06 15:02:58
+categories:
+  - React
 tags: react
 cover_picture: https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=384169016,987997010&fm=27&gp=0.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 title: 项目如何进行组件化拆分
 categories:
-  - Others
+  - React
 date: 2018-03-05 14:58:38
 tags: 组件拆分
 cover_picture: https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2904832717,3935119407&fm=15&gp=0.jpg
