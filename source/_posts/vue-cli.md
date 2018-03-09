@@ -1,5 +1,5 @@
 ---
-title: 安装Vue脚手架时遇到的问题
+title: 安装 Vue 脚手架时遇到的问题
 categories:
   - Vue
 date: 2018-03-07 17:40:30

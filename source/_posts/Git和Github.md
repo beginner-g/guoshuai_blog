@@ -1,5 +1,5 @@
 ---
-title: Git和Github
+title: Git 和 Github
 date: 2018-03-06 15:24:27
 tags: git
 cover_picture: https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=1945343878,3655021699&fm=58
