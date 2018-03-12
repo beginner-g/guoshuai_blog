@@ -2,7 +2,7 @@
 title: React 组件是什么
 categories:
   - React
-date: 2018-03-06 12:54:05
+date: 2017-10-29 12:54:05
 tags: [react,component]
 cover_picture: http://s1.51cto.com/wyfs02/M01/88/7F/wKiom1f55HCSS-DrAACSkyHme8o914.png-wh_651x-s_1436211364.png
 ---

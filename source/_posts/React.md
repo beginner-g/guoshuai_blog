@@ -2,7 +2,7 @@
 title: React 是什么
 categories:
   - React
-date: 2018-03-06 15:03:28
+date: 2017-12-26 15:03:28
 tags: [react,Webpack,Babel]
 cover_picture: http://www.chuanke.com/upload/courseware/f/31/3312428/image/09c68fe797fa58d78a1de4f34e0ea40f.gif
 ---

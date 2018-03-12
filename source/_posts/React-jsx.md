@@ -2,7 +2,7 @@
 title: 组件中的 JSX 语法怎么用
 categories:
   - React
-date: 2018-03-06 08:54:05
+date: 2017-09-12 08:54:05
 tag: [react,JSX]
 cover_picture: http://img3.imgtn.bdimg.com/it/u=3689823771,2521325182&fm=27&gp=0.jpg
 ---

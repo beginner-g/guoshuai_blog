@@ -2,7 +2,7 @@
 title: 安装 Vue 脚手架时遇到的问题
 categories:
   - Vue
-date: 2018-03-07 17:40:30
+date: 2018-02-07 17:40:30
 tags: [vue,vue-cli]
 cover_picture: https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2064073397,779040426&fm=27&gp=0.jpg
 ---

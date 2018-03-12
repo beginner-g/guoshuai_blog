@@ -2,7 +2,7 @@
 title: ES5 和 ES6 的区别
 categories:
   - Others
-date: 2018-03-08 14:16:49
+date: 2018-01-12 14:16:49
 tags: [ES5,ES6]
 cover_picture: http://img1.imgtn.bdimg.com/it/u=80834248,2473924617&fm=27&gp=0.jpg
 ---
